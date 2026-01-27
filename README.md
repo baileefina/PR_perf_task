@@ -1,7 +1,9 @@
 # PR_perf_task
 
+(My first website :3)
+
 After the PR_per_task/ put Techton.html to access the website
 
 https://baileefina.github.io/PR_perf_task/Techton.html
 
-(INCOMPATIBLE WITH PHONE)
+(Might incompatible on certain situations, like zoom changing. And other devices. Please keep in mind that am still learning a way to fix this, am so sorry if it is like this ;-;)
