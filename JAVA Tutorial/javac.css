@@ -1,6 +1,6 @@
 html, body {
     image-rendering: pixelated;
-    background-color: rgb(226, 211, 0);
+    background-color: rgb(201, 188, 0);
     margin: 0px;
     position: relative;
 }
@@ -231,4 +231,5 @@ html, body {
     translate: -50%;
     width: 20%;
     padding: 10px;
+
 }
